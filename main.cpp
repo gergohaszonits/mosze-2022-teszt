@@ -25,5 +25,7 @@ int main()
 
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "David reviewed Gergo's code.\n";
     return 0;
 }
